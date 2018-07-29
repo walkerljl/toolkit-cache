@@ -4,8 +4,7 @@ import org.testng.annotations.Test;
 
 /**
  *
- * @author junlin.ljl
- * @version $Id: AbstractCacheMapTest.java, v 0.1 2017年07月23日 下午9:13 junlin.ljl Exp $
+ * @author xingxun
  */
 public class AbstractCacheMapTest {
 
